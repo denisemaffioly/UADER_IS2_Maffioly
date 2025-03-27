@@ -16,5 +16,3 @@ for num in range(lower, upper + 1):
            print(num)
            
 #Este es un comentario
-
-#Este es otro comentario
